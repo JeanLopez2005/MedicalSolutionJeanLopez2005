@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="API/API.csproj" />
+  <Project Path="AppLogic/AppLogic.csproj" Id="419f9549-e1ba-4ec2-928f-08c1006ef698" />
+  <Project Path="DTO/DTO.csproj" Id="a4fc1b2a-2fe2-46f2-9930-009eaf80f664" />
+</Solution>
